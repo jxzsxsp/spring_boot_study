@@ -32,6 +32,7 @@
 		<module>gs-authenticating-ldap</module>
 		<module>gs-register-facebook-app</module>
 		<module>gs-messaging-redis</module>
+		<module>gs-messaging-rabbitmq</module>
 	</modules>
 
 	<properties>
