@@ -29,6 +29,7 @@
 		<module>gs-consuming-rest</module>
 		<module>gs-relational-data-access</module>
 		<module>gs-uploading-files</module>
+		<module>gs-authenticating-ldap</module>
 	</modules>
 
 	<properties>
