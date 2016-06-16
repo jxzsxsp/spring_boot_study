@@ -33,6 +33,7 @@
 		<module>gs-register-facebook-app</module>
 		<module>gs-messaging-redis</module>
 		<module>gs-messaging-rabbitmq</module>
+		<module>gs-accessing-data-neo4j</module>
 	</modules>
 
 	<properties>
