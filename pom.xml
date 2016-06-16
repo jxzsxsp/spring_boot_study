@@ -28,6 +28,7 @@
 		<module>gs-scheduling-tasks</module>
 		<module>gs-consuming-rest</module>
 		<module>gs-relational-data-access</module>
+		<module>gs-uploading-files</module>
 	</modules>
 
 	<properties>
