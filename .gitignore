@@ -1,0 +1,38 @@
+#ignore target under current directory and all subdirectories:
+target/
+*/target/
+test-output/
+*/test-output/
+
+#ignore settings & gitignore file
+.settings/
+*/.settings/
+.springBeans
+*/.springBeans
+
+#ignore svn files
+.svn
+*/.svn
+
+.project
+
+.metadata
+
+*/.project
+
+.classpath
+*/.classpath
+
+.data/
+*/.data/
+*~
+
+.idea/
+*.iml
+
+#logs
+*/*/logs/
+
+#ignore mac temp file
+.DS_Store
+*/*/.DS_Store
