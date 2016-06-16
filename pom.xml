@@ -25,6 +25,7 @@
 	<modules>
 		<module>gs-rest-service</module>
 		<module>gs-device-detection</module>
+		<module>gs-scheduling-tasks</module>
 	</modules>
 
 	<properties>
