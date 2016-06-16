@@ -30,6 +30,7 @@
 		<module>gs-relational-data-access</module>
 		<module>gs-uploading-files</module>
 		<module>gs-authenticating-ldap</module>
+		<module>gs-register-facebook-app</module>
 	</modules>
 
 	<properties>
