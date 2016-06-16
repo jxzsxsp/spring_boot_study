@@ -24,6 +24,7 @@
 
 	<modules>
 		<module>gs-rest-service</module>
+		<module>gs-device-detection</module>
 	</modules>
 
 	<properties>
