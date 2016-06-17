@@ -38,6 +38,7 @@
 		<module>gs-actuator-service</module>
 		<module>gs-messaging-jms</module>
 		<module>gs-batch-processing</module>
+		<module>gs-securing-web</module>
 	</modules>
 
 	<properties>
