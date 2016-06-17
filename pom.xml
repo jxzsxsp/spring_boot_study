@@ -36,6 +36,7 @@
 		<module>gs-accessing-data-neo4j</module>
 		<module>gs-validating-form-input</module>
 		<module>gs-actuator-service</module>
+		<module>gs-messaging-jms</module>
 	</modules>
 
 	<properties>
