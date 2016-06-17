@@ -40,6 +40,7 @@
 		<module>gs-batch-processing</module>
 		<module>gs-securing-web</module>
 		<module>gs-rest-hateoas</module>
+		<module>gs-accessing-data-gemfire</module>
 	</modules>
 
 	<properties>
