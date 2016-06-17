@@ -43,6 +43,7 @@
 		<module>gs-accessing-data-gemfire</module>
 		<module>gs-integration</module>
 		<module>gs-caching-gemfire</module>
+		<module>gs-managing-transactions</module>
 	</modules>
 
 	<properties>
