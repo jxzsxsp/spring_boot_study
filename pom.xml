@@ -42,6 +42,7 @@
 		<module>gs-rest-hateoas</module>
 		<module>gs-accessing-data-gemfire</module>
 		<module>gs-integration</module>
+		<module>gs-caching-gemfire</module>
 	</modules>
 
 	<properties>
