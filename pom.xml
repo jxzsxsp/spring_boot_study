@@ -44,6 +44,7 @@
 		<module>gs-integration</module>
 		<module>gs-caching-gemfire</module>
 		<module>gs-managing-transactions</module>
+		<module>gs-accessing-data-jpa</module>
 	</modules>
 
 	<properties>
