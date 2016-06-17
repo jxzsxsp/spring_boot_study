@@ -45,6 +45,7 @@
 		<module>gs-caching-gemfire</module>
 		<module>gs-managing-transactions</module>
 		<module>gs-accessing-data-jpa</module>
+		<module>gs-accessing-data-mongodb</module>
 	</modules>
 
 	<properties>
