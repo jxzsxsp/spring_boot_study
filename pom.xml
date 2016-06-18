@@ -61,6 +61,7 @@
 		<module>gs-consuming-rest-sencha</module>
 		<module>gs-consuming-rest-ios</module>
 		<module>gs-rest-service-cors</module>
+		<module>gs-messaging-stomp-msgsjs</module>
 	</modules>
 
 	<properties>
