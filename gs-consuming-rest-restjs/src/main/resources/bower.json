@@ -1,0 +1,19 @@
+{
+  "name": "consuming-rest-rest.js",
+  "version": "0.0.1",
+  "authors": [
+    "John Hann <jhann@gopivotal.com>"
+  ],
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "curl": "~0.8",
+    "rest": "~1"
+  }
+}

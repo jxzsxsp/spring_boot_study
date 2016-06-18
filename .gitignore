@@ -36,3 +36,5 @@ test-output/
 #ignore mac temp file
 .DS_Store
 */*/.DS_Store
+
+node_modules

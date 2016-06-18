@@ -55,6 +55,7 @@
 		<module>gs-handling-site-preference</module>
 		<module>gs-serving-mobile-web-content</module>
 		<module>gs-consuming-rest-angularjs</module>
+		<module>gs-consuming-rest-restjs</module>
 	</modules>
 
 	<properties>
