@@ -1,0 +1,4 @@
+include 'gs-gradle-yarn-client'
+include 'gs-gradle-yarn-appmaster'
+include 'gs-gradle-yarn-container'
+include 'gs-gradle-yarn-dist'
