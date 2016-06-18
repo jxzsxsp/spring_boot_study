@@ -49,6 +49,7 @@
 		<module>gs-serving-web-content</module>
 		<module>gs-convert-jar-to-war</module>
 		<module>gs-async-method</module>
+		<module>gs-handling-form-submission</module>
 	</modules>
 
 	<properties>
