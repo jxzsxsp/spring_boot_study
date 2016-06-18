@@ -46,6 +46,7 @@
 		<module>gs-managing-transactions</module>
 		<module>gs-accessing-data-jpa</module>
 		<module>gs-accessing-data-mongodb</module>
+		<module>gs-serving-web-content</module>
 	</modules>
 
 	<properties>
