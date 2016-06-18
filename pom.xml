@@ -53,6 +53,7 @@
 		<module>gs-spring-boot</module>
 		<module>gs-messaging-stomp-websocket</module>
 		<module>gs-handling-site-preference</module>
+		<module>gs-serving-mobile-web-content</module>
 	</modules>
 
 	<properties>
