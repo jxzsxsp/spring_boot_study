@@ -1,0 +1,21 @@
+spring:
+    batch:
+        job:
+            enabled: false
+    hadoop:
+        fsUri: hdfs://localhost:8020
+        resourceManagerHost: localhost
+    yarn:
+        appName: gs-yarn-batch-processing
+        applicationDir: /app/gs-yarn-batch-processing/
+        batch:
+            enabled: true
+            name: job
+            jobs:
+              - name: job
+                enabled: true
+                next: true
+        appmaster:
+            keepContextAlive: false
+            launchcontext:
+                archiveFile: gs-yarn-batch-processing-container-0.1.0.jar
