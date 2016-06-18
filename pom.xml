@@ -62,6 +62,7 @@
 		<module>gs-consuming-rest-ios</module>
 		<module>gs-rest-service-cors</module>
 		<module>gs-messaging-stomp-msgsjs</module>
+		<module>gs-spring-boot-cli-and-js</module>
 	</modules>
 
 	<properties>
