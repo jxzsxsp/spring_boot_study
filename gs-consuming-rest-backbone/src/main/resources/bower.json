@@ -1,0 +1,22 @@
+{
+	"name": "draft-consuming-rest-backbone.js",
+	"version": "0.0.1",
+	"authors": [
+		"Brian Cavalier <bcavalier@gopivotal.com>"
+	],
+	"license": "http://www.apache.org/licenses/LICENSE-2.0",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"lib",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"curl": "~0.8",
+		"backbone-amd": "~1",
+		"lodash": "~1",
+		"jquery": "~2"
+	}
+}

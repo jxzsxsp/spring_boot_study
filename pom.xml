@@ -56,6 +56,7 @@
 		<module>gs-serving-mobile-web-content</module>
 		<module>gs-consuming-rest-angularjs</module>
 		<module>gs-consuming-rest-restjs</module>
+		<module>gs-consuming-rest-backbone</module>
 	</modules>
 
 	<properties>
