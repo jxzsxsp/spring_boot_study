@@ -60,6 +60,7 @@
 		<module>gs-consuming-rest-jquery</module>
 		<module>gs-consuming-rest-sencha</module>
 		<module>gs-consuming-rest-ios</module>
+		<module>gs-rest-service-cors</module>
 	</modules>
 
 	<properties>
