@@ -54,6 +54,7 @@
 		<module>gs-messaging-stomp-websocket</module>
 		<module>gs-handling-site-preference</module>
 		<module>gs-serving-mobile-web-content</module>
+		<module>gs-consuming-rest-angularjs</module>
 	</modules>
 
 	<properties>
