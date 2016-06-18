@@ -52,6 +52,7 @@
 		<module>gs-handling-form-submission</module>
 		<module>gs-spring-boot</module>
 		<module>gs-messaging-stomp-websocket</module>
+		<module>gs-handling-site-preference</module>
 	</modules>
 
 	<properties>
