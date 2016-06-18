@@ -58,6 +58,7 @@
 		<module>gs-consuming-rest-restjs</module>
 		<module>gs-consuming-rest-backbone</module>
 		<module>gs-consuming-rest-jquery</module>
+		<module>gs-consuming-rest-sencha</module>
 	</modules>
 
 	<properties>
