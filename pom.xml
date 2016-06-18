@@ -57,6 +57,7 @@
 		<module>gs-consuming-rest-angularjs</module>
 		<module>gs-consuming-rest-restjs</module>
 		<module>gs-consuming-rest-backbone</module>
+		<module>gs-consuming-rest-jquery</module>
 	</modules>
 
 	<properties>
