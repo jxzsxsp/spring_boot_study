@@ -50,6 +50,7 @@
 		<module>gs-convert-jar-to-war</module>
 		<module>gs-async-method</module>
 		<module>gs-handling-form-submission</module>
+		<module>gs-spring-boot</module>
 	</modules>
 
 	<properties>
