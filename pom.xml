@@ -64,6 +64,7 @@
 		<module>gs-messaging-stomp-msgsjs</module>
 		<module>gs-spring-boot-cli-and-js</module>
 		<module>gs-consuming-web-service</module>
+		<module>gs-accessing-data-rest</module>
 	</modules>
 
 	<properties>
