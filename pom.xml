@@ -66,6 +66,7 @@
 		<module>gs-consuming-web-service</module>
 		<module>gs-accessing-data-rest</module>
 		<module>gs-accessing-neo4j-data-rest</module>
+		<module>gs-accessing-mongodb-data-rest</module>
 	</modules>
 
 	<properties>
