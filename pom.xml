@@ -72,6 +72,7 @@
 		<module>gs-yarn-basic-single</module>
 		<module>gs-caching</module>
 		<module>gs-spring-boot-docker</module>
+		<module>gs-crud-with-vaadin</module>
 	</modules>
 
 	<properties>
