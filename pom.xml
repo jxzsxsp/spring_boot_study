@@ -71,6 +71,7 @@
 		<module>gs-producing-web-service</module>
 		<module>gs-yarn-basic-single</module>
 		<module>gs-caching</module>
+		<module>gs-spring-boot-docker</module>
 	</modules>
 
 	<properties>
