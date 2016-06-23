@@ -73,6 +73,7 @@
 		<module>gs-caching</module>
 		<module>gs-spring-boot-docker</module>
 		<module>gs-crud-with-vaadin</module>
+		<module>gs-service-registration-and-discovery</module>
 	</modules>
 
 	<properties>
