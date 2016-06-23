@@ -70,6 +70,7 @@
 		<module>gs-accessing-gemfire-data-rest</module>
 		<module>gs-producing-web-service</module>
 		<module>gs-yarn-basic-single</module>
+		<module>gs-caching</module>
 	</modules>
 
 	<properties>
