@@ -68,6 +68,7 @@
 		<module>gs-accessing-neo4j-data-rest</module>
 		<module>gs-accessing-mongodb-data-rest</module>
 		<module>gs-accessing-gemfire-data-rest</module>
+		<module>gs-producing-web-service</module>
 	</modules>
 
 	<properties>
