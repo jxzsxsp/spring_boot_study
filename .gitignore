@@ -38,6 +38,7 @@ test-output/
 */*/.DS_Store
 
 node_modules
+built
 
 build
 .gradle
