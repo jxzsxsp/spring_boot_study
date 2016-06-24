@@ -75,6 +75,7 @@
 		<module>gs-crud-with-vaadin</module>
 		<module>gs-service-registration-and-discovery</module>
 		<module>react-and-spring-data-rest-basic</module>
+		<module>react-and-spring-data-rest-security</module>
 	</modules>
 
 	<properties>
