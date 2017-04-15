@@ -1,98 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
-	<modelVersion>4.0.0</modelVersion>
+  <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.xiaoshuiping</groupId>
-	<artifactId>spring-boot-study</artifactId>
+  <groupId>cn.xiaoshuiping</groupId>
+  <artifactId>spring-boot-study</artifactId>
 
-	<name>spring-boot-study</name>
-	<description>Demo projects for Spring Boot</description>
+  <name>spring-boot-study</name>
+  <description>Demo projects for Spring Boot</description>
 
-    <packaging>pom</packaging>
-	<version>1.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <version>1.0.0-SNAPSHOT</version>
 
-	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.3.5.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
-	</parent>
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>1.3.5.RELEASE</version>
+    <relativePath/> <!-- lookup parent from repository -->
+  </parent>
 
-	<url>http://maven.apache.org</url>
+  <url>http://maven.apache.org</url>
 
-	<modules>
-		<module>gs-rest-service</module>
-		<module>gs-device-detection</module>
-		<module>gs-scheduling-tasks</module>
-		<module>gs-consuming-rest</module>
-		<module>gs-relational-data-access</module>
-		<module>gs-uploading-files</module>
-		<module>gs-authenticating-ldap</module>
-		<module>gs-register-facebook-app</module>
-		<module>gs-messaging-redis</module>
-		<module>gs-messaging-rabbitmq</module>
-		<module>gs-accessing-data-neo4j</module>
-		<module>gs-validating-form-input</module>
-		<module>gs-actuator-service</module>
-		<module>gs-messaging-jms</module>
-		<module>gs-batch-processing</module>
-		<module>gs-securing-web</module>
-		<module>gs-rest-hateoas</module>
-		<module>gs-accessing-data-gemfire</module>
-		<module>gs-integration</module>
-		<module>gs-caching-gemfire</module>
-		<module>gs-managing-transactions</module>
-		<module>gs-accessing-data-jpa</module>
-		<module>gs-accessing-data-mongodb</module>
-		<module>gs-serving-web-content</module>
-		<module>gs-convert-jar-to-war</module>
-		<module>gs-async-method</module>
-		<module>gs-handling-form-submission</module>
-		<module>gs-spring-boot</module>
-		<module>gs-messaging-stomp-websocket</module>
-		<module>gs-handling-site-preference</module>
-		<module>gs-serving-mobile-web-content</module>
-		<module>gs-consuming-rest-angularjs</module>
-		<module>gs-consuming-rest-restjs</module>
-		<module>gs-consuming-rest-backbone</module>
-		<module>gs-consuming-rest-jquery</module>
-		<module>gs-consuming-rest-sencha</module>
-		<module>gs-consuming-rest-ios</module>
-		<module>gs-rest-service-cors</module>
-		<module>gs-messaging-stomp-msgsjs</module>
-		<module>gs-spring-boot-cli-and-js</module>
-		<module>gs-consuming-web-service</module>
-		<module>gs-accessing-data-rest</module>
-		<module>gs-accessing-neo4j-data-rest</module>
-		<module>gs-accessing-mongodb-data-rest</module>
-		<module>gs-accessing-gemfire-data-rest</module>
-		<module>gs-producing-web-service</module>
-		<module>gs-yarn-basic-single</module>
-		<module>gs-caching</module>
-		<module>gs-spring-boot-docker</module>
-		<module>gs-crud-with-vaadin</module>
-		<module>gs-service-registration-and-discovery</module>
-		<module>react-and-spring-data-rest-basic</module>
-		<module>react-and-spring-data-rest-security</module>
-		<module>react-and-spring-data-rest-hypermedia</module>
-		<module>react-and-spring-data-rest-events</module>
-		<module>react-and-spring-data-rest-conditional</module>
-	</modules>
+  <modules>
+    <module>gs-rest-service</module>
+    <module>gs-device-detection</module>
+    <module>gs-scheduling-tasks</module>
+    <module>gs-consuming-rest</module>
+    <module>gs-relational-data-access</module>
+    <module>gs-uploading-files</module>
+    <module>gs-authenticating-ldap</module>
+    <module>gs-register-facebook-app</module>
+    <module>gs-messaging-redis</module>
+    <module>gs-messaging-rabbitmq</module>
+    <module>gs-accessing-data-neo4j</module>
+    <module>gs-validating-form-input</module>
+    <module>gs-actuator-service</module>
+    <module>gs-messaging-jms</module>
+    <module>gs-batch-processing</module>
+    <module>gs-securing-web</module>
+    <module>gs-rest-hateoas</module>
+    <module>gs-accessing-data-gemfire</module>
+    <module>gs-integration</module>
+    <module>gs-caching-gemfire</module>
+    <module>gs-managing-transactions</module>
+    <module>gs-accessing-data-jpa</module>
+    <module>gs-accessing-data-mongodb</module>
+    <module>gs-serving-web-content</module>
+    <module>gs-convert-jar-to-war</module>
+    <module>gs-async-method</module>
+    <module>gs-handling-form-submission</module>
+    <module>gs-spring-boot</module>
+    <module>gs-messaging-stomp-websocket</module>
+    <module>gs-handling-site-preference</module>
+    <module>gs-serving-mobile-web-content</module>
+    <module>gs-consuming-rest-angularjs</module>
+    <module>gs-consuming-rest-restjs</module>
+    <module>gs-consuming-rest-backbone</module>
+    <module>gs-consuming-rest-jquery</module>
+    <module>gs-consuming-rest-sencha</module>
+    <module>gs-consuming-rest-ios</module>
+    <module>gs-rest-service-cors</module>
+    <module>gs-messaging-stomp-msgsjs</module>
+    <module>gs-spring-boot-cli-and-js</module>
+    <module>gs-consuming-web-service</module>
+    <module>gs-accessing-data-rest</module>
+    <module>gs-accessing-neo4j-data-rest</module>
+    <module>gs-accessing-mongodb-data-rest</module>
+    <module>gs-accessing-gemfire-data-rest</module>
+    <module>gs-producing-web-service</module>
+    <module>gs-yarn-basic-single</module>
+    <module>gs-caching</module>
+    <module>gs-spring-boot-docker</module>
+    <module>gs-crud-with-vaadin</module>
+    <module>gs-service-registration-and-discovery</module>
+    <module>react-and-spring-data-rest-basic</module>
+    <module>react-and-spring-data-rest-security</module>
+    <module>react-and-spring-data-rest-hypermedia</module>
+    <module>react-and-spring-data-rest-events</module>
+    <module>react-and-spring-data-rest-conditional</module>
+  </modules>
 
-	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<java.version>1.8</java.version>
-	</properties>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <java.version>1.8</java.version>
+  </properties>
 
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build>
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-maven-plugin</artifactId>
+      </plugin>
+    </plugins>
+  </build>
 
 </project>
