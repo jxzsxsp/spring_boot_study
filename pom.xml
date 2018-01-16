@@ -80,6 +80,7 @@
     <module>react-and-spring-data-rest-hypermedia</module>
     <module>react-and-spring-data-rest-events</module>
     <module>react-and-spring-data-rest-conditional</module>
+    <module>gs-accessing-data-mysql</module>
   </modules>
 
   <properties>
